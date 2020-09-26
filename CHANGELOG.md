@@ -1,5 +1,11 @@
 # @ctx-core/typescript-tools
 
+## 3.0.21
+
+### Patch Changes
+
+- fix: include bin/\*.js files in npm package
+
 ## 3.0.20
 
 ### Patch Changes
