@@ -1,5 +1,11 @@
 # @ctx-core/typescript-tools
 
+## 3.0.22
+
+### Patch Changes
+
+- fix: npm: publish bin/\*.js files
+
 ## 3.0.21
 
 ### Patch Changes
