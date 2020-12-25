@@ -1,4 +1,17 @@
-# @ctx-core/typescript-tools
+# @ctx-core/ctx-core-typescript-tools
+
+## 4.0.0
+
+### Major Changes
+
+- package name is @ctx-core/ctx-core-typescript-tools: specific to @ctx-core/dev project
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/array@19.1.13
+  - @ctx-core/object@15.0.10
 
 ## 3.0.40
 
