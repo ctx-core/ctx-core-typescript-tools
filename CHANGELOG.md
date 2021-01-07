@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 4.0.9
+
+### Patch Changes
+
+- globby: ^11.0.1 -> ^11.0.2
+
 ## 4.0.8
 
 ### Patch Changes
