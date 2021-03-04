@@ -1,5 +1,13 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 5.0.21
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.3.0
+  - @ctx-core/array@20.1.17
+
 ## 5.0.20
 
 ### Patch Changes
