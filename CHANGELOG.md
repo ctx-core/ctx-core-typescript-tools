@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 5.0.26
+
+### Patch Changes
+
+- 39607cca5: globby: ^11.0.2 -> ^11.0.3
+
 ## 5.0.25
 
 ### Patch Changes
