@@ -4,7 +4,7 @@ const globby = require('globby')
 main().then()
 async function main() {
 	const promise_a1 = (await globby('packages/*/tsconfig.json')).map(
-		async tsconfig_path=>{
+		async (tsconfig_path:string)=>{
 			const tsconfig_json = (await fs.promises.readFile(tsconfig_path)).toString()
 			const tsconfig = JSON.parse(tsconfig_json)
 			let update = false

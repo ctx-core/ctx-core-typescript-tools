@@ -1,5 +1,17 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 5.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.3.0
+  - @ctx-core/object@17.6.0
+
 ## 5.0.49
 
 ### Patch Changes
