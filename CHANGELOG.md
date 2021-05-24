@@ -1,5 +1,14 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 5.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.4.1
+  - @ctx-core/object@18.1.1
+
 ## 5.2.0
 
 ### Minor Changes
