@@ -1,5 +1,14 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 5.1.10
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.3.10
+  - @ctx-core/object@18.0.6
+
 ## 5.1.9
 
 ### Patch Changes

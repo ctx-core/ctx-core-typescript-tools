@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/ctx-core-typescript-tools",
-  "version": "5.1.9",
+  "version": "5.1.10",
   "description": "Typescript tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
@@ -17,13 +17,13 @@
   "author": "Brian Takita",
   "main": "./src/index.js",
   "module": "./src/index.js",
-  "types": "./src/index.ts",
+  "types": "./src/index.d.ts",
   "scripts": {
     "exec": "$@"
   },
   "dependencies": {
-    "@ctx-core/array": "workspace:^20.3.9",
-    "@ctx-core/object": "workspace:^18.0.5",
+    "@ctx-core/array": "workspace:^20.3.10",
+    "@ctx-core/object": "workspace:^18.0.6",
     "globby": "^11.0.3"
   },
   "devDependencies": {
