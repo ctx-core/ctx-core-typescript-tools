@@ -1,5 +1,17 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 5.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.4.0
+  - @ctx-core/object@18.1.0
+
 ## 5.1.10
 
 ### Patch Changes
