@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 5.2.2
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.2.1
 
 ### Patch Changes
