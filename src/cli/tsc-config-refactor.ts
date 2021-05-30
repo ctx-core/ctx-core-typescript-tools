@@ -7,8 +7,8 @@ import { map } from '@ctx-core/array'
 const readFile = promisify(fs.readFile)
 const writeFile = promisify(fs.writeFile)
 export async function tsc_config_refactor() {
-	const promise_a1:Promise<any>[] = []
-	promise_a1.push(...(await globby('packages/*/tsconfig.json')).map(
+	const promise_a:Promise<any>[] = []
+	promise_a.push(...(await globby('packages/*/tsconfig.json')).map(
 		async (tsconfig_path:string)=>{
 			const tsconfig_json = (await fs.promises.readFile(tsconfig_path)).toString()
 			const tsconfig = run(()=>{
@@ -37,7 +37,7 @@ export async function tsc_config_refactor() {
 				)
 			}
 		}))
-	promise_a1.push(run(async ()=>{
+	promise_a.push(run(async ()=>{
 		const base_tsconfig = JSON.parse((await readFile('./tsconfig.json')).toString())
 		await Promise.all(map(
 			await globby('packages/*/tsconfig.json'),
@@ -60,5 +60,5 @@ export async function tsc_config_refactor() {
 			})
 		)
 	}))
-	await Promise.all(promise_a1)
+	await Promise.all(promise_a)
 }
