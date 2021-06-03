@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 6.0.6
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.0.5
 
 ### Patch Changes
