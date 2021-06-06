@@ -1,5 +1,14 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 6.0.14
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.6
+  - @ctx-core/object@19.1.2
+
 ## 6.0.13
 
 ### Patch Changes
