@@ -1,5 +1,14 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 6.0.15
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.7
+  - @ctx-core/object@19.1.3
+
 ## 6.0.14
 
 ### Patch Changes
