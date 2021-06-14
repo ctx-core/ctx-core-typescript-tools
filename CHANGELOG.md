@@ -1,5 +1,17 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.0
+  - @ctx-core/object@20.0.0
+
 ## 6.0.22
 
 ### Patch Changes
