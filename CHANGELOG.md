@@ -1,5 +1,14 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.8
+  - @ctx-core/object@20.0.7
+
 ## 7.0.6
 
 ### Patch Changes
