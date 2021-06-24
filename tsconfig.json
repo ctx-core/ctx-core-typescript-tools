@@ -26,10 +26,7 @@
 		"mapRoot": "src",
 		"declarationDir": "src",
 		"importsNotUsedAsValues": "error",
-		"lib": [
-			"dom",
-			"ES2020"
-		],
+		"lib": ["dom", "ESNext"],
 		"types": [
 			"node"
 		]
