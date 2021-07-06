@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/ctx-core-typescript-tools",
-  "version": "7.0.18",
+  "version": "7.0.19",
   "description": "Typescript tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
@@ -24,12 +24,12 @@
     "exec": "$@"
   },
   "dependencies": {
-    "@ctx-core/array": "workspace:^22.1.2",
-    "@ctx-core/object": "workspace:^20.2.4",
+    "@ctx-core/array": "workspace:^22.1.3",
+    "@ctx-core/object": "workspace:^20.2.5",
     "globby": "^11.0.4"
   },
   "devDependencies": {
-    "@ctx-core/function": "workspace:^19.1.12",
+    "@ctx-core/function": "workspace:^19.1.13",
     "esm": "^3.2.25",
     "typescript": "^4.3.5"
   },
