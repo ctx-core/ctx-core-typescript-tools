@@ -1,1 +1,1 @@
-export * from './tsc-config-refactor'
+export * from './tsc_config_refactor.js'

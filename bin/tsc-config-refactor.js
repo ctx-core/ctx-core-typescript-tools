@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-require = require('esm')(module)
-require('../dist').tsc_config_refactor()
+import { tsc_config_refactor } from '../dist/index.js'
+await tsc_config_refactor()
