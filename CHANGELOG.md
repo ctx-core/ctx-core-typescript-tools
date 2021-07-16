@@ -1,5 +1,23 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.35
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.11
+  - @ctx-core/object@21.0.10
+
+## 7.0.34
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.10
+  - @ctx-core/object@21.0.9
+
 ## 7.0.33
 
 ### Patch Changes
