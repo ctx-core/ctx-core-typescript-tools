@@ -1,5 +1,14 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.31
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.7
+  - @ctx-core/object@21.0.6
+
 ## 7.0.30
 
 ### Patch Changes
