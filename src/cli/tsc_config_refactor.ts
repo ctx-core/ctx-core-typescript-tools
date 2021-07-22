@@ -1,6 +1,6 @@
 import { promisify } from 'util'
 import fs from 'fs'
-import globby from 'globby'
+import { globby } from 'globby'
 import { run } from '@ctx-core/function'
 import { deep_clone, merge } from '@ctx-core/object'
 import { map } from '@ctx-core/array'

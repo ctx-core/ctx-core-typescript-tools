@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.36
+
+### Patch Changes
+
+- globby: ^11.0.4 -> ^12.0.0
+
 ## 7.0.35
 
 ### Patch Changes
