@@ -1,5 +1,14 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.44
+
+### Patch Changes
+
+- typescript: ^4.4.2 -> ^4.4.3
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.19
+  - @ctx-core/object@21.0.18
+
 ## 7.0.43
 
 ### Patch Changes
