@@ -34,12 +34,12 @@
     "exec": "$@"
   },
   "dependencies": {
-    "@ctx-core/array": "workspace:^23.0.25",
-    "@ctx-core/object": "workspace:^21.0.24",
+    "@ctx-core/array": "workspace:^23.0.30",
+    "@ctx-core/object": "workspace:^21.0.29",
     "globby": "^12.0.2"
   },
   "devDependencies": {
-    "@ctx-core/function": "workspace:^20.2.5",
+    "@ctx-core/function": "workspace:^20.2.11",
     "esm": "^3.2.25",
     "typescript": "next"
   },
