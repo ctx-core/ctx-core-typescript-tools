@@ -1,5 +1,14 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.51
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/array@23.0.34
+  - @ctx-core/object@22.0.1
+
 ## 7.0.50
 
 ### Patch Changes
