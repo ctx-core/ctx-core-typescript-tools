@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/ctx-core-typescript-tools",
-  "version": "7.0.53",
+  "version": "7.0.54",
   "description": "Typescript tools for the @ctx-core monorepo",
   "keywords": [
     "ctx-core"
@@ -16,9 +16,9 @@
   "license": "Apache-2.0",
   "author": "Brian Takita",
   "type": "module",
+  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
-      "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
     },
     "./package.json": "./package.json"
@@ -34,12 +34,12 @@
     "exec": "$@"
   },
   "dependencies": {
-    "@ctx-core/array": "workspace:^23.0.37",
-    "@ctx-core/object": "workspace:^22.0.4",
+    "@ctx-core/array": "workspace:^23.0.38",
+    "@ctx-core/object": "workspace:^22.0.5",
     "globby": "^12.0.2"
   },
   "devDependencies": {
-    "@ctx-core/function": "workspace:^20.2.16",
+    "@ctx-core/function": "workspace:^20.2.17",
     "esm": "^3.2.25",
     "typescript": "next"
   },
