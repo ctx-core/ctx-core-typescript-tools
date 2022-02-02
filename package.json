@@ -32,7 +32,7 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^24.0.0",
+		"@ctx-core/array": "workspace:^24.0.1",
 		"@ctx-core/object": "workspace:^22.0.13",
 		"globby": "^13.1.0"
 	},
