@@ -33,7 +33,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "*",
-		"@ctx-core/object": "*",
+		"@ctx-core/object": "^22.1.2",
 		"globby": "^13.1.1"
 	},
 	"devDependencies": {
