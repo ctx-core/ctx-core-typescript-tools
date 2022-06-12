@@ -32,7 +32,7 @@
 	"dependencies": {
 		"@ctx-core/array": "^26.5.1",
 		"@ctx-core/object": "^22.2.1",
-		"globby": "^13.1.1"
+		"globby": "^13.1.2"
 	},
 	"devDependencies": {
 		"@ctx-core/function": "^20.8.0",
