@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.79
+
+### Patch Changes
+
+- @ctx-core/array: 26.5.2
+
 ## 7.0.78
 
 ### Patch Changes
