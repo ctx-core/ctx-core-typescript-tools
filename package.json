@@ -30,12 +30,12 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.7.6",
-		"@ctx-core/object": "^22.2.6",
+		"@ctx-core/array": "^26.7.7",
+		"@ctx-core/object": "^22.2.7",
 		"globby": "^13.1.2"
 	},
 	"devDependencies": {
-		"@ctx-core/function": "^21.0.0",
+		"@ctx-core/function": "^21.0.1",
 		"esm": "^3.2.25",
 		"typescript": "next"
 	},
