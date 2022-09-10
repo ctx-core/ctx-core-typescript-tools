@@ -35,7 +35,7 @@
 		"globby": "^13.1.2"
 	},
 	"devDependencies": {
-		"@ctx-core/function": "^21.1.0",
+		"@ctx-core/function": "^21.1.1",
 		"esm": "^3.2.25",
 		"typescript": "next"
 	},
