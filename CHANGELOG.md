@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.87
+
+### Patch Changes
+
+- tsc_config_refactor: fix: import
+
 ## 7.0.86
 
 ### Patch Changes
