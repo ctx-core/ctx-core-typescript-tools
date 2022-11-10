@@ -35,7 +35,7 @@
 		"tiny-glob": "^0.2.9"
 	},
 	"devDependencies": {
-		"@ctx-core/function": "^21.5.0",
+		"@ctx-core/function": "^21.6.0",
 		"esm": "^3.2.25",
 		"typescript": "next"
 	},
