@@ -1,5 +1,12 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.158
+
+### Patch Changes
+
+- devDependencies: - @ctx-core/function
+- package.json: scripts: + test,deploy
+
 ## 7.0.157
 
 ### Patch Changes
