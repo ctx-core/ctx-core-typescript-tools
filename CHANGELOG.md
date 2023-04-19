@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.163
+
+### Patch Changes
+
+- fix: + \*.js files
+
 ## 7.0.162
 
 ### Patch Changes
