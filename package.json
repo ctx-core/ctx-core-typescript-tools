@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ctx-core-typescript-tools",
-	"version": "7.0.222",
+	"version": "7.0.223",
 	"description": "Typescript tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -34,8 +34,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^27.0.34",
-		"@ctx-core/object": "^31.1.15",
+		"@ctx-core/array": "^27.0.35",
+		"@ctx-core/object": "^31.1.16",
 		"tiny-glob": "^0.2.9"
 	},
 	"devDependencies": {
