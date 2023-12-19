@@ -1,9 +1,9 @@
 import { readFile, writeFile } from 'fs/promises'
 import { globby } from 'globby'
 import glob from 'tiny-glob'
-import { map } from '@ctx-core/array'
-import { run } from '@ctx-core/function'
-import { deep_clone, merge } from '@ctx-core/object'
+import { map } from 'ctx-core/array'
+import { run } from 'ctx-core/function'
+import { deep_clone, merge } from 'ctx-core/object'
 export async function tsc_config_refactor() {
 	/** @type {Promise<any>[]} */
 	const promise_a = []
@@ -11,7 +11,7 @@ export async function tsc_config_refactor() {
 		async (tsconfig_path)=>{
 			const tsconfig_json = await readFile(tsconfig_path).then($=>$.toString())
 			const tsconfig = run(()=>{
-				try { return JSON.parse(tsconfig_json)} catch (e) {
+				try { return JSON.parse(tsconfig_json) } catch (e) {
 					console.error(`Error parsing: ${tsconfig_path}`)
 					throw e
 				}
