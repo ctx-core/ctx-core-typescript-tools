@@ -2,8 +2,8 @@ import { readFile, writeFile } from 'fs/promises'
 import { globby } from 'globby'
 import glob from 'tiny-glob'
 import { map } from 'ctx-core/array'
-import { run } from 'ctx-core/function'
 import { deep_clone, merge } from 'ctx-core/object'
+import { run } from 'ctx-core/run'
 export async function tsc_config_refactor() {
 	/** @type {Promise<any>[]} */
 	const promise_a = []
