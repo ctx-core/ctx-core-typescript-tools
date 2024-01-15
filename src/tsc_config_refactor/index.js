@@ -1,4 +1,4 @@
-import { readFile, writeFile } from 'fs/promises'
+import { readFile, writeFile } from 'node:fs/promises'
 import { globby } from 'globby'
 import glob from 'tiny-glob'
 import { map } from 'ctx-core/array'
