@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ctx-core-typescript-tools",
-	"version": "7.0.344",
+	"version": "7.0.345",
 	"description": "Typescript tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -14,7 +14,11 @@
 		"url": "https://github.com/ctx-core/ctx-core-typescript-tools/issues"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-typescript-tools@briantakita.me"
+	},
 	"type": "module",
 	"types": "./src/index.d.ts",
 	"exports": {
@@ -35,7 +39,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^6.6.0",
+		"ctx-core": "^6.6.1",
 		"tiny-glob": "^0.2.9"
 	},
 	"devDependencies": {

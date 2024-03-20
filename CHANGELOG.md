@@ -1,5 +1,13 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.0.345
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 7.0.344
 
 ### Patch Changes
