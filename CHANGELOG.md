@@ -1,5 +1,13 @@
 # @ctx-core/ctx-core-typescript-tools
 
+## 7.1.0
+
+### Minor Changes
+
+- fix: packaging files & directories
+
+  ./tsconfig.json: moduleResolution: nodenext
+
 ## 7.0.357
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ctx-core-typescript-tools",
-	"version": "7.0.357",
+	"version": "7.1.0",
 	"description": "Typescript tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -25,6 +25,13 @@
 		".": "./src/index.js",
 		"./package.json": "./package.json"
 	},
+	"files": [
+		"*.d.ts",
+		"*.js",
+		"*.json",
+		"bin",
+		"tsc_config_refactor"
+	],
 	"bin": {
 		"tsc-config-refactor": "./bin/tsc-config-refactor.mjs"
 	},
